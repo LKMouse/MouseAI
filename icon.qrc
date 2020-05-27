@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>naver.png</file>
+    <file>youtube.png</file>
+    <file>kwangwoon.jpg</file>
+    <file>google.png</file>
+  </qresource>
+</RCC>
