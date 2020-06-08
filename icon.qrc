@@ -1,5 +1,10 @@
 <RCC>
   <qresource prefix="newPrefix">
+    <file>twitter.jpeg</file>
+    <file>zoom.jpeg</file>
+    <file>instagram.jpeg</file>
+    <file>everytime.jpeg</file>
+    <file>facebook.png</file>
     <file>naver.png</file>
     <file>youtube.png</file>
     <file>kwangwoon.jpg</file>
