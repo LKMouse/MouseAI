@@ -14,4 +14,4 @@
 
 ## 프로젝트 실행
 
-- AutoMouseAI_LKMOUSE_Project 폴더를 다운받아주세요.
+- AutoMouseAI_LKMOUSE_Project 폴더에 있는 AutoMouseAI_LKMouse.ipynb 를 실행해주세요.
