@@ -4,7 +4,7 @@
 
 ## 시연영상
 
-[![Video Label](./project/mouse.png)](https://www.youtube.com/watch?v=pWHnjcLjMyM)
+[![Video Label](./project/mouse.PNG)](https://www.youtube.com/watch?v=pWHnjcLjMyM)
 
 ## 라이브러리 설치
 
